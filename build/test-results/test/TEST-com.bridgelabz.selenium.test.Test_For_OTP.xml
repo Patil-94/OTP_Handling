@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.Test_For_OTP" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-26T11:43:26" hostname="DESKTOP-KFGQFK8" time="34.81">
+  <properties/>
+  <testcase name="loginTo_Application_with_valid_credentials" classname="com.bridgelabz.selenium.test.Test_For_OTP" time="34.81"/>
+  <system-out><![CDATA[Your ixigo verification code is: 140977. It is valid for the next 1 hour.
+[, 140977, 1]
+https://www.ixigo.com/
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
